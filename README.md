@@ -12,4 +12,4 @@
 ## 此外申明：本人并非原作者，这是脚本！不会封号！！！美食没有按键检测机制！！！！
 # 如果您喜欢这个项目，并愿意给我打赏的话请用以下地址，感谢
 0x307b2aff51271cc3c883ACC44224dcc9A6AB2790   支持ETH，USDT
-https://github.com/sendino-hashilate/msdzls/blob/main/%E6%89%93%E8%B5%8F/picture.png
+![image]（https://github.com/sendino-hashilate/msdzls/blob/main/%E6%89%93%E8%B5%8F/picture.png）
